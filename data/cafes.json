@@ -1,0 +1,8 @@
+{
+  "cafes": {
+    "luna-paw": {"name": "Luna Paw", "waste_budget_g": 250},
+    "octocat-outpost": {"name": "Octocat Outpost", "waste_budget_g": 300}
+  },
+  "min_conversion": 0.6,
+  "traffic_spike_multiplier": 2
+}
