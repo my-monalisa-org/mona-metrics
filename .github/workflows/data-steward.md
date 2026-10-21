@@ -12,7 +12,7 @@ permissions:
   issues: read
   copilot-requests: write
 engine: copilot
-model: gpt-5-mini
+model: gpt-5.3-codex
 max-turns: 12
 max-ai-credits: 100
 max-daily-ai-credits: 200
