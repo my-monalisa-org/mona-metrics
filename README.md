@@ -91,7 +91,13 @@ Actions logs and conclusions. Human review remains required for recommendations.
 ### Authentication, model, and billing prerequisites
 
 This workflow is compiled with **`gh aw v0.92.6`** and explicitly uses Copilot
-with **`gpt-5-mini`**. Before running, a repository administrator must verify:
+with **`gpt-5.3-codex`**. The
+[diagnostic run](https://github.com/my-monalisa-org/mona-metrics/actions/runs/39596850349)
+advertised this exact model with complete candidate metadata and `/responses`
+support, while the original `gpt-5-mini` pin was absent. The replacement preserves
+workflow-token authentication and existing budgets; advertised availability is
+not evidence of a successful inference run. Before running, a repository
+administrator must verify:
 
 - GitHub Actions and GitHub Agentic Workflows/Copilot workflow-token inference
   are available and allowed for this organization and repository.
