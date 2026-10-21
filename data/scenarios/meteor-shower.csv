@@ -1,0 +1,14 @@
+date,cafe_id,visits,orders,revenue_credits,adoptions,food_waste_g
+2026-09-01,luna-paw,40,36,432,1,120
+2026-09-01,octocat-outpost,50,44,528,2,180
+2026-09-02,luna-paw,42,37,444,1,130
+2026-09-02,octocat-outpost,52,45,540,1,190
+2026-09-03,luna-paw,38,34,408,0,110
+2026-09-03,octocat-outpost,48,42,504,2,170
+2026-09-04,luna-paw,44,39,468,2,140
+2026-09-04,octocat-outpost,54,46,552,1,200
+2026-09-05,luna-paw,46,40,480,1,160
+2026-09-05,octocat-outpost,58,49,588,3,220
+2026-09-06,octocat-outpost,56,48,576,1,210
+2026-09-07,luna-paw,36,32,384,1,100
+2026-09-07,octocat-outpost,200,50,600,1,900
